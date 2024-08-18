@@ -1,27 +1,96 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
-
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
 main:
-  - name: Bio
+  - name: Home
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Research
+    url: /research/
+    identifier: research
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Overview  
+    url: /research/
+    parent: research
     weight: 12
-  - name: News
-    url: /#news
+  - name: Publications
+    url: /publication/
+    parent: research
     weight: 13
-  - name: Experience
-    url: experience/
+  - name: Talks  #<hr>
+    url: /collections_talks/
+    parent: research
+    weight: 14
+#  - name: Corporate Finance
+#    url: /finance/
+#    parent: research
+#    weight: 15
+#  - name: Computer Science
+#    url: /computerscience/
+#    parent: research
+#    weight: 16
+#  - name: Fairness & Transportation
+#    url: /transportation/
+#    parent: research
+#    weight: 17
+  - name: News & Media
+    url: /collections_news_media/
+    weight: 18
+  - name: Experience & Vita
+    url: /experience/
+    weight: 19
+    identifier: cv
+  - name: Work Experience
+    url: /experience/work/
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
+    parent: cv
+  - name: Education
+    url: /experience/education/
+    weight: 21
+    parent: cv
+  - name: Skills & Certifications
+    url: /experience/skills/
+    weight: 22
+    parent: cv
+#  - name: Scholarships, Competitions & Awards
+#    url: /experience/awards/
+#    weight: 23
+#    parent: cv
+#  - name: Services
+#    url: /services/
+#    weight: 20
+#  - name: Teaching
+#    url: /teaching/
+#    weight: 21
+  - name: Personal
+    url: /personal/
+    identifier: personal
+    weight: 22
+  - name: Science Slam
+    url: /collections_personal_scienceslam/
+    parent: personal
+    weight: 23
+#  - name: Competitions
+#    url: /competitions/
+#    parent: personal
+#    weight: 24
+#  - name: Travelling
+#    url: /travelling/
+#    parent: personal
+#    weight: 25
+  - name: UAV / Drone Videos
+    url: /collections_uav_videos/
+    parent: personal
+    weight: 26
+#  - name: Self-Made Video Games
+#    url: /videogames/
+#    parent: personal
+#    weight: 27
+#  - name: Ancestry & Genealogy
+#    url: /genealogy/
+#    parent: personal
+#    weight: 28
+  - name: Contact
+    url: /contact/
+    weight: 29

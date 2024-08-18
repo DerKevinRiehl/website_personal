@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 334 334"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="kearney.svg"
+   width="334"
+   height="334"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.52769461"
+     inkscape:cx="239.72198"
+     inkscape:cy="423.54042"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#1e1e1e;}</style>
+  </defs>
+  <title
+     id="title1">Keanrey_logo_slate_RGB</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(5.636834,0,0,5.636834,77.294669,55.128263)"
+     style="stroke-width:1.00002945;stroke-dasharray:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1.00003;stroke-dasharray:none"
+       id="rect1"
+       width="64.88427"
+       height="66.901398"
+       x="-14.384792"
+       y="-15.831388" />
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1"
+       style="stroke-width:1.00003;stroke-dasharray:none"
+       transform="translate(0.51894446,-1.9362065)">
+      <polygon
+         class="cls-1"
+         points="11.94,17.5 5.05,17.5 5.05,0 0,0 0,40 5.05,40 5.05,22.5 11.92,22.5 29.38,40 36.23,40 16.61,20 36.23,0 29.38,0 "
+         id="polygon5"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.00003;stroke-dasharray:none" />
+    </g>
+  </g>
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Keanrey_logo_slate_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
