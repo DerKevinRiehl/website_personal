@@ -221,5 +221,5 @@ My research focuses on **resource allocation mechanisms, artificial currencies, 
 
 &emsp; &emsp; <ins>My Journey:</ins> At the age of 12 I discovered my passion for computer science & technology. By training I am an industrial engineer, with two hearts beating in my breast: **engineering & business**. 
 I studied electrical engineering, computer science, and finance at TU Darmstadt, wrote my master in bioinformatics at University of Cambridge. 
-Besides, I gained **3 years+ work experience** in strategy consulting (AT Kearney, McKinsey), automotive industry (Opel, Continental, Volkswagen), and the finance industry (UBS, Credit Suisse). 
-During my journey, I had the chance to work with great, and inspiring people from **all over the world**, including Germany, China, Russia, United Kingdom, and Switzerland.
+Besides, I gained **3 years+ work experience** in strategy consulting (AT Kearney, McKinsey), automotive industry (Opel, Continental, Volkswagen), and the finance industry (UBS, Credit Suisse, Swiss IT Security Group). 
+During my journey, I had the chance to work with great, and inspiring people from **all over the world**, including Germany, China, United Kingdom, and Switzerland.

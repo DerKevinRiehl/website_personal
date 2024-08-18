@@ -3,9 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 main:
-  - name: Home
-    url: /
-    weight: 10
+  #- name: Home
+  #  url: /
+  #  weight: 10
   - name: Research
     url: /research/
     identifier: research
@@ -18,7 +18,7 @@ main:
     url: /publication/
     parent: research
     weight: 13
-  - name: Talks  #<hr>
+  - name: Talks & Conferences  #<hr>
     url: /collections_talks/
     parent: research
     weight: 14

@@ -18,7 +18,7 @@ sections:
   - block: collection
     content:
       title:  
-      text: <br><br><br><br><br><br><br><br>
+      text: <br><br><br>
       filters:
         folders:
           - project

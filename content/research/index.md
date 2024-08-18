@@ -47,7 +47,7 @@ sections:
   - block: portfolio
     id: Research
     content:
-      title: Featured Work
+      title: Featured Publications
       #subtitle: my research
       filters:
         folders:
