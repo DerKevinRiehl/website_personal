@@ -18,7 +18,7 @@ main:
     url: /publication/
     parent: research
     weight: 13
-  - name: Talks & Conferences  #<hr>
+  - name: Talks & Conferences #<hr>
     url: /collections_talks/
     parent: research
     weight: 14
