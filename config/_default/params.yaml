@@ -14,12 +14,12 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    local_business_type: 'Kevin Riehl'
+    org_name: 'Kevin Riehl'
+    description: 'Kevin Riehl. Academic Researcher. Entrepreneur. Science. Switzerland.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-1RR9NCPPD3'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
