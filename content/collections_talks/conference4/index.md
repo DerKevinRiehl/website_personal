@@ -1,5 +1,5 @@
 ---
-title: 'Sport4STEM: '
+title: 'Sport4STEM: Inspire Children & Drive To Growth'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -53,6 +53,8 @@ image:
   preview_only: false
 
 ---
+
+*SDG Olympiad - IDEA League Universities, Milano, Italy, July 22-26, 2024*
 
 We connect university students with disadvantaged children from surrounding schools using sport to promote higher education in STEM.
 

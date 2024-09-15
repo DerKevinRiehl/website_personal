@@ -22,6 +22,10 @@ main:
     url: /collections_talks/
     parent: research
     weight: 14
+  - name: Review Activities
+    url: /review_activities/
+    parent: research
+    weight: 15
 #  - name: Corporate Finance
 #    url: /finance/
 #    parent: research
