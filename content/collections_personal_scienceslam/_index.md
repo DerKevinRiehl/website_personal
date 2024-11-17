@@ -37,10 +37,31 @@ sections:
           position: center
           parallax: false
 
+  - block: markdown
+    content:
+      title: Science Slams
+      subtitle: Transporting science with entertainment
+      text:
+            These are the science slams I performed so far
+
+            * (2024-12-07) - (Science Slam Winterthur) - "Life is not fair - Der Kampf gegen den Stau"
+
+            * (2024-10-16) - (Science Slam Bern) - "Life is not fair - Der Kampf gegen den Stau"
+
+            * (2024-10-11) - (Science Slam Basel) - "Life is not fair - Fighting Traffic Congestion"
+
+            * (2024-04-30) - (FameLab, Basel) - "Life is not fair - 3 Minute Pitch"
+
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose your content listing view - here we use the `showcase` view
+      view: masonry
+
   - block: collection
     id: section-1
     content:
-      title: Science Slams
+      title: Science Slams Videos
       subtitle: Transporting science with entertainment
       # Display content from the `content/post/` folder
       filters:
@@ -48,7 +69,7 @@ sections:
           - collections_personal_scienceslam
       count: 100
       sort_by: 'Date'
-      sort_ascending: true
+      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

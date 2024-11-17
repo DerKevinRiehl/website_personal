@@ -41,7 +41,7 @@ sections:
     id: section-1
     content:
       title: Talks & Conferences
-      subtitle: Scientific conferences
+      subtitle: Talks, Conferences, Competitions, Guest Lectures
       # Display content from the `content/post/` folder
       filters:
         folders:
