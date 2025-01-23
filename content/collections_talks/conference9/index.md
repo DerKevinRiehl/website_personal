@@ -1,11 +1,12 @@
 ---
-title: 'Fair Roads for free people: A distributive fairness framework for the roads'
+title: 'Vehicle trajectory from aerial video using oriented object detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Shaimaa El-Baklish
   - Anastasios Kouvelas
   - Michail Makridis
 
@@ -14,8 +15,8 @@ author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-06-01'
-doi: '10.3929/ethz-b-000716127'
+date: '2025-08-01'
+doi: '10.3929/ethz-b-000710841'
 url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,14 +31,14 @@ publication_types: ['conference-journal']
 publication: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
 #publication_short: In *Scientific Reports*
 
-abstract: Traffic engineering aims to control infrastructure and population behavior to achieve optimal usage of road networks. Fairness is fundamental to stimulate cooperation in large populations, and plays an important role in traffic engineering, as it increases the well-being of users, improves driving safety by rule-adherence, and overcomes public resistance at legislative implementation. Despite the importance of fairness, only a few works have translated fairness into the transportation domain, with a focus on transportation planning rather than traffic engineering. This work highlights the importance of fairness when solving conflicts of large populations for scare, public good, road-network resources with traffic engineering, and establishes a connection to the modern fairness theories. Moreover, this work presents a fairness framework that serves when designing traffic engineering solutions, when convincing in public debates with a useful, argumentative tool-set to confront equity considerations, and enables systematic research and design of control systems.
+abstract: Vehicle trajectories offer valuable insights for various road transportation applications. Trajectories allow to model realistic driving behaviors (car-following, lane-changing), and real-world traffic patterns (oscillation propagation, capacity drops). Besides, trajectories are helpful when developing driving safety systems and support road infrastructure planning, design and control. Optical vehicle extraction with cameras is more precise than using GPS sensors, due to higher resolution of video streams in time and space, less prone to sensor synchronization issues and allow to cover all vehicles on a road in the field of view of a camera. Increasingly, perspectives from above using a drone (aerial view) are used. Existing algorithms employ Horizontal Bounding Box Object Detection (HBB), which is problematic due to issues such as occlusion, dynamic backgrounds, and changing vehicle appearance under different light and weather conditions. Oriented Bounding Box Detection (OBB) more precisely encloses objects of interest, thus decreases noise of backgrounds and occlusion.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: 
-- signal control
-- fairness
+- computer vision
+- machine learning
 - eth
 - transportation
 - conference

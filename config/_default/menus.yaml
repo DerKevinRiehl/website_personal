@@ -14,7 +14,7 @@ main:
     url: /research/
     parent: research
     weight: 12
-  - name: Publications
+  - name: Journal Publications
     url: /publication/
     parent: research
     weight: 13
