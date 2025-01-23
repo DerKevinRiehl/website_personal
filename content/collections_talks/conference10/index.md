@@ -15,7 +15,7 @@ author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-06-01'
+date: '2025-01-06'
 doi: '10.3929/ethz-b-000710789'
 url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/710789'
 
@@ -31,7 +31,9 @@ publication_types: ['conference-journal']
 publication: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
 #publication_short: In *Scientific Reports*
 
-abstract: Traffic congestion is a pertinent issue on highways. Variable Speed Limit control can help avoid traffic jams before congestion forms. Vehicles upstream are required to decelerate at times in order to stop emerging congestion from propagating. This work proposes a fully decentralized, model free, and infrastructure-free approach to Variable Speed Limit control, that employs connected vehicles as communication infrastructure, and as moving sensors and actuators. Dedicated Short Range Communication, consensus, and gossip algorithms, and a Bellman controller are components of this approach. At the example of a highway bifurcation, performance, and robustness are demonstrated by micro-simulations. The proposed method achieves significant improvements in traffic states, with up to 15% higher speeds, 5% lower density, and 8% higher flows. Significant improvements can be achieved at a compliance rate of at least 25% of all vehicles. Moreover, the approach is robust to gaps between platoons and recovers from periods of disconnection. The proposed method achieves traffic improvements similar to previous, centralized approaches, without the necessity of any infrastructure or model knowledge.
+abstract: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
+
+#abstract: Traffic congestion is a pertinent issue on highways. Variable Speed Limit control can help avoid traffic jams before congestion forms. Vehicles upstream are required to decelerate at times in order to stop emerging congestion from propagating. This work proposes a fully decentralized, model free, and infrastructure-free approach to Variable Speed Limit control, that employs connected vehicles as communication infrastructure, and as moving sensors and actuators. Dedicated Short Range Communication, consensus, and gossip algorithms, and a Bellman controller are components of this approach. At the example of a highway bifurcation, performance, and robustness are demonstrated by micro-simulations. The proposed method achieves significant improvements in traffic states, with up to 15% higher speeds, 5% lower density, and 8% higher flows. Significant improvements can be achieved at a compliance rate of at least 25% of all vehicles. Moreover, the approach is robust to gaps between platoons and recovers from periods of disconnection. The proposed method achieves traffic improvements similar to previous, centralized approaches, without the necessity of any infrastructure or model knowledge.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,3 +57,5 @@ image:
 
 
 ---
+
+Traffic congestion is a pertinent issue on highways. Variable Speed Limit control can help avoid traffic jams before congestion forms. Vehicles upstream are required to decelerate at times in order to stop emerging congestion from propagating. This work proposes a fully decentralized, model free, and infrastructure-free approach to Variable Speed Limit control, that employs connected vehicles as communication infrastructure, and as moving sensors and actuators. Dedicated Short Range Communication, consensus, and gossip algorithms, and a Bellman controller are components of this approach. At the example of a highway bifurcation, performance, and robustness are demonstrated by micro-simulations. The proposed method achieves significant improvements in traffic states, with up to 15% higher speeds, 5% lower density, and 8% higher flows. Significant improvements can be achieved at a compliance rate of at least 25% of all vehicles. Moreover, the approach is robust to gaps between platoons and recovers from periods of disconnection. The proposed method achieves traffic improvements similar to previous, centralized approaches, without the necessity of any infrastructure or model knowledge.

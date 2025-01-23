@@ -14,7 +14,7 @@ author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-06-01'
+date: '2025-01-06'
 doi: '10.3929/ethz-b-000716127'
 url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 
@@ -30,7 +30,9 @@ publication_types: ['conference-journal']
 publication: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
 #publication_short: In *Scientific Reports*
 
-abstract: Traffic engineering aims to control infrastructure and population behavior to achieve optimal usage of road networks. Fairness is fundamental to stimulate cooperation in large populations, and plays an important role in traffic engineering, as it increases the well-being of users, improves driving safety by rule-adherence, and overcomes public resistance at legislative implementation. Despite the importance of fairness, only a few works have translated fairness into the transportation domain, with a focus on transportation planning rather than traffic engineering. This work highlights the importance of fairness when solving conflicts of large populations for scare, public good, road-network resources with traffic engineering, and establishes a connection to the modern fairness theories. Moreover, this work presents a fairness framework that serves when designing traffic engineering solutions, when convincing in public debates with a useful, argumentative tool-set to confront equity considerations, and enables systematic research and design of control systems.
+abstract: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
+
+#abstract: Traffic engineering aims to control infrastructure and population behavior to achieve optimal usage of road networks. Fairness is fundamental to stimulate cooperation in large populations, and plays an important role in traffic engineering, as it increases the well-being of users, improves driving safety by rule-adherence, and overcomes public resistance at legislative implementation. Despite the importance of fairness, only a few works have translated fairness into the transportation domain, with a focus on transportation planning rather than traffic engineering. This work highlights the importance of fairness when solving conflicts of large populations for scare, public good, road-network resources with traffic engineering, and establishes a connection to the modern fairness theories. Moreover, this work presents a fairness framework that serves when designing traffic engineering solutions, when convincing in public debates with a useful, argumentative tool-set to confront equity considerations, and enables systematic research and design of control systems.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -54,3 +56,5 @@ image:
 
 
 ---
+
+Traffic engineering aims to control infrastructure and population behavior to achieve optimal usage of road networks. Fairness is fundamental to stimulate cooperation in large populations, and plays an important role in traffic engineering, as it increases the well-being of users, improves driving safety by rule-adherence, and overcomes public resistance at legislative implementation. Despite the importance of fairness, only a few works have translated fairness into the transportation domain, with a focus on transportation planning rather than traffic engineering. This work highlights the importance of fairness when solving conflicts of large populations for scare, public good, road-network resources with traffic engineering, and establishes a connection to the modern fairness theories. Moreover, this work presents a fairness framework that serves when designing traffic engineering solutions, when convincing in public debates with a useful, argumentative tool-set to confront equity considerations, and enables systematic research and design of control systems.

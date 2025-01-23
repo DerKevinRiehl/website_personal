@@ -15,7 +15,7 @@ author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-08-01'
+date: '2025-01-08'
 doi: '10.3929/ethz-b-000710841'
 url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 
@@ -31,7 +31,9 @@ publication_types: ['conference-journal']
 publication: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
 #publication_short: In *Scientific Reports*
 
-abstract: Vehicle trajectories offer valuable insights for various road transportation applications. Trajectories allow to model realistic driving behaviors (car-following, lane-changing), and real-world traffic patterns (oscillation propagation, capacity drops). Besides, trajectories are helpful when developing driving safety systems and support road infrastructure planning, design and control. Optical vehicle extraction with cameras is more precise than using GPS sensors, due to higher resolution of video streams in time and space, less prone to sensor synchronization issues and allow to cover all vehicles on a road in the field of view of a camera. Increasingly, perspectives from above using a drone (aerial view) are used. Existing algorithms employ Horizontal Bounding Box Object Detection (HBB), which is problematic due to issues such as occlusion, dynamic backgrounds, and changing vehicle appearance under different light and weather conditions. Oriented Bounding Box Detection (OBB) more precisely encloses objects of interest, thus decreases noise of backgrounds and occlusion.
+abstract: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
+
+#abstract: Vehicle trajectories offer valuable insights for various road transportation applications. Trajectories allow to model realistic driving behaviors (car-following, lane-changing), and real-world traffic patterns (oscillation propagation, capacity drops). Besides, trajectories are helpful when developing driving safety systems and support road infrastructure planning, design and control. Optical vehicle extraction with cameras is more precise than using GPS sensors, due to higher resolution of video streams in time and space, less prone to sensor synchronization issues and allow to cover all vehicles on a road in the field of view of a camera. Increasingly, perspectives from above using a drone (aerial view) are used. Existing algorithms employ Horizontal Bounding Box Object Detection (HBB), which is problematic due to issues such as occlusion, dynamic backgrounds, and changing vehicle appearance under different light and weather conditions. Oriented Bounding Box Detection (OBB) more precisely encloses objects of interest, thus decreases noise of backgrounds and occlusion.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,3 +57,5 @@ image:
 
 
 ---
+
+Vehicle trajectories offer valuable insights for various road transportation applications. Trajectories allow to model realistic driving behaviors (car-following, lane-changing), and real-world traffic patterns (oscillation propagation, capacity drops). Besides, trajectories are helpful when developing driving safety systems and support road infrastructure planning, design and control. Optical vehicle extraction with cameras is more precise than using GPS sensors, due to higher resolution of video streams in time and space, less prone to sensor synchronization issues and allow to cover all vehicles on a road in the field of view of a camera. Increasingly, perspectives from above using a drone (aerial view) are used. Existing algorithms employ Horizontal Bounding Box Object Detection (HBB), which is problematic due to issues such as occlusion, dynamic backgrounds, and changing vehicle appearance under different light and weather conditions. Oriented Bounding Box Detection (OBB) more precisely encloses objects of interest, thus decreases noise of backgrounds and occlusion.

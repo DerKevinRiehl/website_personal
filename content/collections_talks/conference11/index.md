@@ -14,7 +14,7 @@ author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2025-07-01'
+date: '2025-01-07'
 doi: '10.3929/ethz-b-000716129'
 url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716145'
 
@@ -30,7 +30,9 @@ publication_types: ['conference-journal']
 publication: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
 #publication_short: In *Scientific Reports*
 
-abstract: Public goods, such as the environment or the road infrastructure of a city, are resources available to all in society without restriction. The self-interest of rational individuals drives to overuse, depletion, or even damage of these goods. Governmental intervention to restrict access to public goods with economic instruments such as value pricing can protect public goods and reduce consumption to sustainable levels. However, this monetary approach is controversial, as it introduces equity issues and systematically discriminates consumers with lower incomes. Karma is a non-monetary, fair, and efficient resource allocation mechanism, that employs an artificial currency different from money, that incentivizes cooperation amongst selfish individuals, and achieves a balance between giving and taking. Where money does not do its job, Karma achieves socially more desirable resource allocations by being aligned with consumers' needs rather than their financial power. An exemplary case study of road-pricing the Lincoln Tunnel in New York City demonstrates Karma's value proposition, and potential to overcome the equity issues of monetary market mechanisms. The results show that value pricing with Karma is an efficient tool and feasible alternative to money, without the burden of additional fees.
+abstract: "*104th Annual Meeting of the Transportation Research Board (TRB 2025), Washington, DC, USA, January 5-9, 2025*"
+
+#abstract: Public goods, such as the environment or the road infrastructure of a city, are resources available to all in society without restriction. The self-interest of rational individuals drives to overuse, depletion, or even damage of these goods. Governmental intervention to restrict access to public goods with economic instruments such as value pricing can protect public goods and reduce consumption to sustainable levels. However, this monetary approach is controversial, as it introduces equity issues and systematically discriminates consumers with lower incomes. Karma is a non-monetary, fair, and efficient resource allocation mechanism, that employs an artificial currency different from money, that incentivizes cooperation amongst selfish individuals, and achieves a balance between giving and taking. Where money does not do its job, Karma achieves socially more desirable resource allocations by being aligned with consumers' needs rather than their financial power. An exemplary case study of road-pricing the Lincoln Tunnel in New York City demonstrates Karma's value proposition, and potential to overcome the equity issues of monetary market mechanisms. The results show that value pricing with Karma is an efficient tool and feasible alternative to money, without the burden of additional fees.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -55,3 +57,5 @@ image:
 
 
 ---
+
+Public goods, such as the environment or the road infrastructure of a city, are resources available to all in society without restriction. The self-interest of rational individuals drives to overuse, depletion, or even damage of these goods. Governmental intervention to restrict access to public goods with economic instruments such as value pricing can protect public goods and reduce consumption to sustainable levels. However, this monetary approach is controversial, as it introduces equity issues and systematically discriminates consumers with lower incomes. Karma is a non-monetary, fair, and efficient resource allocation mechanism, that employs an artificial currency different from money, that incentivizes cooperation amongst selfish individuals, and achieves a balance between giving and taking. Where money does not do its job, Karma achieves socially more desirable resource allocations by being aligned with consumers' needs rather than their financial power. An exemplary case study of road-pricing the Lincoln Tunnel in New York City demonstrates Karma's value proposition, and potential to overcome the equity issues of monetary market mechanisms. The results show that value pricing with Karma is an efficient tool and feasible alternative to money, without the burden of additional fees.
