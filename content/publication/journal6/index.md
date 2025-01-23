@@ -9,9 +9,6 @@ author_notes:
 date: "2024-05-24"
 doi: "https://doi.org/10.1093/jrsssc/qlad057"
 
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
-
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
@@ -35,6 +32,7 @@ tags:
 - scientometrics
 - finance
 - darmstadt
+- journal
 featured: true
 
 links:

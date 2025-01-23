@@ -6,10 +6,8 @@ projects: []
 authors:
   - admin
 tags:
-  - UAV
   - video
 categories:
-  - UAV
   - video
 ---
 

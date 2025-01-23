@@ -36,6 +36,7 @@ tags:
 - green economy
 - finance
 - darmstadt
+- journal
 featured: true
 
 links:

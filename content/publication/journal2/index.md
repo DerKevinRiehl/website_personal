@@ -35,6 +35,7 @@ tags:
 - NLP
 - finance
 - darmstadt
+- journal
 featured: true
 
 links:

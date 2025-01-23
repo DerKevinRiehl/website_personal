@@ -53,4 +53,7 @@ sections:
 
             * Annals of Mathematics
 
+            * Future Business Journal
+
+            * Molecular Genetics and Genomics
 ---

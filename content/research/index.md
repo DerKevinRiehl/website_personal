@@ -53,6 +53,9 @@ sections:
         folders:
           - publication
           # research
+        featured_only: true
+        tag: "journal"
+        publication_types: ["Journal article"]
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
     design:

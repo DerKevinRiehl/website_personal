@@ -48,7 +48,7 @@ sections:
           - collections_news_media
       count: 100
       sort_by: 'Date'
-      sort_ascending: true
+      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

@@ -41,6 +41,7 @@ tags:
 - privacy
 - soft-biometrics
 - journal paper
+- journal
 featured: true
 
 links:

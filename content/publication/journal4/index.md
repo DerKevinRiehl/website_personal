@@ -38,6 +38,7 @@ tags:
 - bioinformatics
 - computational biology
 - cambridge
+- journal
 featured: true
 
 links:
