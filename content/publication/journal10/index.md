@@ -11,7 +11,7 @@ author_notes:
 #- "Equal contribution"
 date: "2024-09-01"
 #doi: "https://doi.org/10.1038/s44333-024-00014-4"
-url: https://www.nsl.ethz.ch/en/equitable-urban-traffic-management-systems-with-karma-congestion-pricing/
+#url: https://www.nsl.ethz.ch/en/equitable-urban-traffic-management-systems-with-karma-congestion-pricing/
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
