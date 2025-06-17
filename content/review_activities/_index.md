@@ -37,23 +37,31 @@ sections:
       text:
             I act as a reviewer in following journals and conferences...
 
-            * Global Business Review
-            
+            * Annals of Mathematics and Artificial Intelligence
+
+            * Future Business Journal
+
             * Forum for Linguistic Studies
-            
-            * Symposium on Management of Future Motorway and Urban Traffic Systems
-            
-            * Transportation Research Board Annual Meeting
-            
+
+            * Global Business Review
+                        
             * IEEE International Conference on Intelligent Transportation Systems
 
             * IEEE International Conference on Vehicular Electronics and Safety
 
             * IEEE Transactions on Intelligent Transportation Systems
+            
+            * International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) 
 
-            * Annals of Mathematics
-
-            * Future Business Journal
+            * Journal of Rail Transport Planning and Management
 
             * Molecular Genetics and Genomics
+
+            * Symposium on Management of Future Motorway and Urban Traffic Systems (MFTS)
+            
+            * Transportation Planning and Technology 
+
+            * Transportation Research Board Annual Meeting
+
+
 ---
