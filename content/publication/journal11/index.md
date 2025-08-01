@@ -10,7 +10,7 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-12-11"
-#doi: "https://doi.org/10.1186/s12544-025-00718-9"
+doi: "https://doi.org/10.1186/s12544-025-00718-9"
 #url: https://link.springer.com/article/10.1186/s12544-025-00718-9#article-info
 
 # Publication type.

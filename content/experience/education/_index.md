@@ -66,8 +66,8 @@ sections:
           company_url: 'https://www.tu-darmstadt.de/'
           company_logo: tudarmstadt
           location: Darmstadt, Germany
-          date_start: '2014-10-01'
-          date_end: '2017-12-31'
+          date_start: '2018-10-01'
+          date_end: '2021-04-30'
           description: 'Focus studies on artificial intelligence, machine learning, scientometrics, natural lanugage processing, advanced control theory, econometrics.'
 
         - title: Bachelor of Science, Industrial Engineering (Electrical Engineering, IT & Finance)
