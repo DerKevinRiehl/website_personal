@@ -51,6 +51,8 @@ sections:
 
             * IEEE Transactions on Intelligent Transportation Systems
             
+            * IEEE Open Journal of Intelligent Transportation Systems
+
             * International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) 
 
             * Journal of Rail Transport Planning and Management

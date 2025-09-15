@@ -59,9 +59,10 @@ sections:
 
             **Microscopic Modelling and Simulation of Traffic Operations (101-0492-00L)** 
 
+            - 2025 Autumn Semester
+            
             - 2024 Autumn Semester
 
-            - 2025 Autumn Semester
             
             
             **Projektübung Verkehr / Transportation Engineering Lab (103-0230-00 G)** 
@@ -105,10 +106,10 @@ sections:
           date_start: '2025-03-15'
           date_end: '2025-09-15'
           description: '
-            **Topic:** (Ongoing)
+            **Topic:** Coordinated Control Algorithm For Fairness In Ramp Metering
 
 
-            **Abstract:** (Ongoing)
+            **Abstract:** Traffic assistance schemes typically tend to focus on global system efficiency which can come at the cost of equity among users of the road. This paper proposes C-ALINEA, a new ramp metering algorithm that makes inter-ramp relationships explicit in order to tackle equity issues without losing throughput. As opposed to classical isolated controllers, C-ALINEA generates a coherent intelligence by connecting each ramp to two upstream and two downstream neighbors. The methodology employs SUMO microsimulations to evaluate the algorithm on the A10 ring road around Amsterdam, a heavily congested urban freeway with complex ramp interactions. C-ALINEA is compared against conventional ALINEA and other state-of-the-art approaches using calibrated traffic demand patterns from the typical A10 ring road. Performance metrics include mainline throughput, ramp waiting times, spatial equity indices, and system resilience. Results have shown that C-ALINEA can achieve a more fair sharing of congestion impacts over different entry points along the A10. With its five-ramp horizon, the algorithm has the possibility to predict downstream bottlenecks and harmonize the response on adjacent ramps. The results are encouraging in that coordination-based ramp metering appears to be a viable approach to socially acceptable traffic management solutions in urban settings.
 
 
             **Profile:** https://www.linkedin.com/in/omar-alami-badissi-97489920b/
@@ -121,10 +122,10 @@ sections:
           date_start: '2025-02-24'
           date_end: '2025-06-30'
           description: '
-            **Topic:** (Ongoing)
+            **Topic:** Impacts of Transit Detour Traffic on Local Accessibility
 
 
-            **Abstract:** (Ongoing)
+            **Abstract:** This thesis investigates how congestion at the Gotthard tunnel’s north portal and resulting detour traffic affect local accessibility in the Urner Valley, and evaluates the effects of a policy restricting transit vehicles to the highway. A calibrated SUMO microsimulation model, based on loop-detector data, replicates traffic patterns for three representative 2024 case study days with varying congestion levels. Accessibility is assessed via simulated travel times to both the regional center (Altdorf) and the urban center (Zurich). Results show that road-based access degrades sharply on high-transit days, particularly in upper-valley towns, where public transport alternatives are weak. The policy experiment has minimal impact on low-demand days but significantly improves local accessibility on congested days, while increasing delays for through traffic. These findings highlight trade-offs between aggregate efficiency and local equity, and suggest the value of targeted, demand-responsive interventions.
 
 
             **Profile:** https://www.linkedin.com/in/manon-bertola/
@@ -137,10 +138,10 @@ sections:
           date_start: '2025-02-17'
           date_end: '2025-06-30'
           description: '
-            **Topic:** (Ongoing)
+            **Topic:** Infrastructural Control Algorithm for Fairness in Road Traffic Engineering
 
 
-            **Abstract:** (Ongoing)
+            **Abstract:** This thesis investigates whether fairness and efficiency can be jointly achieved in urban traffic signal control at intersections. While efficiency has traditionally been the primary objective in signal control strategies, the consideration of fairness has received comparatively limited attention. To address this gap, a controller inspired by the adaptive systems SCOOT and SCATS, referred to as SCOSCA, is developed. SCOSCA incorporates the three core optimizers of these systems: an offset optimizer, a cycle length optimizer, and a green phase optimizer. Building upon this foundation, two fairness-augmented variants are introduced: SCOSCAFAIRV1, which integrates a fairness-aware green phase optimizer, and SCOSCAFAIRV2, which additionally includes a secondary real-time fairness controller. The controllers are evaluated on both a synthetic toy model and a realistic arterial road network in a case study, using the microscopic traffic simulation platform SUMO. Several fairness ideologies, Egalitarian, Rawlsian Harsanyian and Utilitarian, are formalized through respective performance metrics. Bayesian Optimization is applied to tune the controllers towards these fairness objectives. The findings show that fairness could be improved with minimal or no loss in efficiency; in the case study, efficiency could even be enhanced. Moreover, the results observed for SCOSCA, SCOSCAFAIRV1 and SCOSCAFAIRV2 under different optimization goals suggest that optimizing for a single performance metric often leads to improvements across multiple fairness indicators. This interdependence highlights the importance of explicitly incorporating fairness into the design of future traffic control algorithms.
 
 
             **Profile:** https://www.linkedin.com/in/justin-weiss-36b779269/
@@ -153,10 +154,10 @@ sections:
           date_start: '2024-12-01'
           date_end: '2025-06-15'
           description: '
-            **Topic:** (Ongoing)
+            **Topic:** Fair Perimeter Control using Queue Balancing
 
 
-            **Abstract:** (Ongoing)
+            **Abstract:** This thesis investigates the integration of fairness into perimeter control strategies for urban traffic management. While perimeter control effectively reduces congestion by regulating inflow into protected zones, existing approaches typically prioritize system efficiency, often overlooking the equitable distribution of delays across users. A simulation-based evaluation demonstrates that basic perimeter control not only improves total and internal delays but also enhances fairness metrics, including the Gini coefficient and Jain’s fairness index. Building on this, queue balancing strategies inspired by computer network resource allocation were implemented to assess their impact on fairness. Results show that under uniform demand, queue balancing provides no consistent benefits. However, in varied demand scenarios, where certain entry points are more congested, fairness improvements were observed. A real-world scenario using the San Francisco network highlights the practical challenges of implementation, such as queue spillbacks and the need for more adaptive control mechanisms. Overall, the findings suggest that fairness-aware perimeter control is feasible and beneficial under realistic conditions, but further work is needed to ensure consistent and scalable deployment.
 
 
             **Profile:** https://www.linkedin.com/in/leakuenstler465b59182/
