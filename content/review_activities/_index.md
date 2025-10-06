@@ -45,6 +45,8 @@ sections:
 
             * Global Business Review
                         
+			* IEEE Control Systems Letters
+			
             * IEEE International Conference on Intelligent Transportation Systems
 
             * IEEE International Conference on Vehicular Electronics and Safety
