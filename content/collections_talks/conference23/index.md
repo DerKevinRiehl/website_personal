@@ -14,7 +14,7 @@ author_notes:
 
 date: '2025-10-07'
 #doi: '10.3929/ethz-b-000681446'
-#url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/681446'
+url_source: 'https://www.ivt.ethz.ch/en/info/news/2025/10/towards-fair-roads.htm'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2023-01-01T00:00:00Z'
@@ -56,5 +56,8 @@ image:
 *D-BAUG Research Day 2025: From Micro to Macro*
 
 On 7 October 2025, the Association of Scientific Staff at D-BAUG invites all students, researchers and professors to the department’s annual “Meet & Share” event. This year’s theme will be “From Micro to Macro”, highlighting the variety of scales that researchers at our department work on – from the smallest processes to large-scale systems. Doctoral candidates and researchers from all institutes will present selected case studies. Join us for an afternoon of exchange, insight and inspiration!
+
+https://www.ivt.ethz.ch/en/info/news/2025/10/towards-fair-roads.htm
+https://baug.ethz.ch/en/news-and-events/news/2025/09/d-baug-research-day-2025-from-micro-to-macro.html
 
 {{< figure src="featured.jpg" width=100 >}}
