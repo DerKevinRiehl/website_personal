@@ -22,7 +22,7 @@ url_source: 'https://www.ivt.ethz.ch/en/info/news/2025/10/towards-fair-roads.htm
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['talk]
+publication_types: ['conference-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: "*Towards fair roads, D-BAUG Meet&Share, From Micro to Macro, ETH Zürich, Zürich, Switzerland, October 07, 2025*"
