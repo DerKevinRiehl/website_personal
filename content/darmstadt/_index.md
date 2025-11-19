@@ -51,8 +51,8 @@ sections:
       contact_links:
       - icon: x
         icon_pack: fab
-        name: Zoom Link (Meeting ID: 63690928421, Passcode: 587490)
-        link: https://tu-darmstadt.zoom-x.de/j/63690928421?pwd=hLfdnqm50L0rdWXhsp6zV9sD8SBTDe.1
+        name: "Zoom Link (Meeting ID: 63690928421, Passcode: 587490)"
+        link: "https://tu-darmstadt.zoom-x.de/j/63690928421?pwd=hLfdnqm50L0rdWXhsp6zV9sD8SBTDe.1"
     design:
       columns: '2'		
 
