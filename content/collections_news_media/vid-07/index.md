@@ -37,7 +37,7 @@ Es ist schon sinnvoll, mehrere Überquerungsmöglichkeiten zu bieten, aber eben 
 
 Zumindest was die CO2-Emissionen betrifft, ist das richtig, denn beim Anfahren wird am meisten Treibstoff verbraucht. Es ist immer ein Abwägen, welchem Bedürfnis mehr Gewicht gegeben wird. Scheinbar ging es dieses Mal zugunsten der Sicherheit von Fussgänger:innen und Velofahrenden statt des Klimas.
 
-**Während die Überquerung durch die Zebrastreifen einfacher und sicherer werden soll, verzichtet die Stadt darauf, Velowege oder Markierungen zu erstellen. **
+**Während die Überquerung durch die Zebrastreifen einfacher und sicherer werden soll, verzichtet die Stadt darauf, Velowege oder Markierungen zu erstellen.**
 
 Die Rosengartenstrasse wird auch mit Lichtsignalen für den Langsamverkehr unattraktiv bleiben, denn die geplanten Massnahmen sind ein Tropfen auf den heissen Stein. Der punktuelle Umbau steht exemplarisch für das Problem der Rosengartenstrasse: Weil ein Gesamtkonzept fehlt, wird «Pflästerlipolitik» betrieben.
 
@@ -49,7 +49,7 @@ Das Ding ist, dass bei solchen Vorlagen häufig über ein Komplettpaket abgestim
 
 Ja, eigentlich wäre der Auftrag klar. Weil die Rosengartenstrasse aber eine Kantonsstrasse ist, hat die Stadt nur begrenzte Möglichkeiten, den Wunsch ihrer Einwohner:innen umzusetzen. Zudem ist der Platz auf der vierspurigen Strasse sehr knapp bemessen. Will man also die Situation für die einen verbessern, müssten die anderen zurückstecken. Dieser Grundkonflikt im Strassenraum zeigt sich auch bei der Einführung von Tempo 30. 
 
-**Auch hier stellt sich der Kanton quer, denn die Stadt will auf der vierspurigen Verkehrsachse Tempo 30 einführen. Aber würde eine Geschwindigkeitsreduktion die Rosengartenstrasse denn überhaupt sicherer machen? **
+**Auch hier stellt sich der Kanton quer, denn die Stadt will auf der vierspurigen Verkehrsachse Tempo 30 einführen. Aber würde eine Geschwindigkeitsreduktion die Rosengartenstrasse denn überhaupt sicherer machen?**
 
 Während die Politik sich darüber streitet, ist man sich in der Literatur grösstenteils einig: Je schneller die Geschwindigkeit bei einem Aufprall, desto höher der Schaden und die Gefahr gesundheitlicher Folgen. Deshalb, ja, Tempo 30 einzuführen, macht die Strassen für alle sicherer.
 
