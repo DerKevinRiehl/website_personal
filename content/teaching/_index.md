@@ -54,6 +54,8 @@ sections:
             
             **Computer Programming & Data Science – An Introduction with Python (101-0720-00L)** 
 
+            - 2026 Spring Semester
+            
             - 2025 Spring Semester
 
 
@@ -67,6 +69,8 @@ sections:
             
             **Projektübung Verkehr / Transportation Engineering Lab (103-0230-00 G)** 
 
+            - 2026 Spring Semester
+            
             - 2025 Spring Semester
           '
 
