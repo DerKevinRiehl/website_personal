@@ -52,6 +52,15 @@ sections:
           date_end: ''
           description: ''
 
+        - title: PhD (Promotion), Natural Language Processing & Finance
+          company: Technische Universität Darmstadt, Chair of Corporate Finance
+          company_url: 'https://www.cofi.wi.tu-darmstadt.de/index.en.jsp'
+          company_logo: tudarmstadt
+          location: Darmstadt, Germany
+          date_start: '2022-09-01'
+          date_end: '2025-12-01'
+          description: 'Dissertation: The Value of Unstructured Data – Essays on Information Disclosure'
+
         - title: Master Thesis, Bioinformatics & Computational Biology
           company: University of Cambridge
           company_url: 'https://www.cam.ac.uk/'

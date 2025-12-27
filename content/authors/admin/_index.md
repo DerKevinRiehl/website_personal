@@ -43,16 +43,19 @@ education:
   courses:
     - course: PhD in AI & Control in Traffic Engineering
       institution: ETH Zurich, Switzerland
-      year: 2024
+      year: (ongoing)
+    - course: PhD in Natural Language Processing & Corporate Finance
+      institution: Technical University Darmstadt, Germany
+      year: 2025
     - course: MTh in Bioinformatics & Computational Biology
       institution: University of Cambridge, United Kingdom
       year: 2021
     - course: MSc in Industrial Engineering
       institution: Technical University Darmstadt, Germany
-      year: 2018
+      year: 2021
     - course: BSc in Industrial Engineering
       institution: Technical University Darmstadt, Germany
-      year: 2014
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
