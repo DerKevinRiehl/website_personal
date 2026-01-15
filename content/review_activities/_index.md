@@ -39,6 +39,8 @@ sections:
           
           * Annals of Mathematics and Artificial Intelligence
           * Accident Analysis and Prevention
+          * Discover Artificial Intelligence
+          * European Journal of Psychology Open
           * Future Business Journal
           * Forum for Linguistic Studies
           * Global Business Review
