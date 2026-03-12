@@ -50,6 +50,7 @@ sections:
           * IEEE Transactions on Intelligent Transportation Systems
           * IEEE Open Journal of Intelligent Transportation Systems
           * International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) 
+          * International Journal of Psychology Open
           * Journal of Rail Transport Planning and Management
           * Molecular Genetics and Genomics
           * Simulation: Transactions of the Society for Modeling and Simulation International
