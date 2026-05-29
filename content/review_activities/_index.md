@@ -45,18 +45,23 @@ sections:
           * Forum for Linguistic Studies
           * Global Business Review
           * IEEE Control Systems Letters
-          * IEEE International Conference on Intelligent Transportation Systems
+          * IEEE International Conference on Intelligent Transportation Systems (ITSC)
           * IEEE International Conference on Vehicular Electronics and Safety
           * IEEE Transactions on Intelligent Transportation Systems
           * IEEE Open Journal of Intelligent Transportation Systems
           * International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) 
           * International Journal of Psychology Open
+          * International Journal of Pavement Research and Technology
           * Journal of Rail Transport Planning and Management
+          * Journal of Aviation Technology and Engineering
           * Molecular Genetics and Genomics
           * Simulation: Transactions of the Society for Modeling and Simulation International
           * Symposium on Management of Future Motorway and Urban Traffic Systems (MFTS)
+          *  Symposium of the European Association for Research in Transportation (hEART)
+          * Systems
           * Transportation Planning and Technology 
           * Transportation Research Board Annual Meeting
           * Transportation Reviews
+          * World Electric Vehicle Journal
           
 ---

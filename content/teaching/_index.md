@@ -103,6 +103,67 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Rasim Ibadov
+          company: Bachelor, Computer Science, ETH Zurich
+          company_logo: x_student_rasim
+          location: Zurich, Switzerland
+          date_start: '2025-10-01'
+          date_end: '2026-02-28'
+          description: '
+            **Topic:** Replication Study of a RL-based Traffic Optimization Paper
+
+
+            **Abstract:** This study replicates and critically evaluates the claims made in the work by Deng et al. (2023), titled “Automated Traffic State Optimization in the Weaving Area of Urban Expressways by a Reinforcement Learning‐Based Cooperative Method of Channelization and Ramp Metering,” [1] published in the Journal of Advanced Transportation. The original study proposes a cooperative method that combines channelization and reinforcement‐learning‐based ramp metering and reports substantial improvements in lane‐wise vehicle speeds in a freeway weaving section. The primary objective of this replication is to verify whether the reported performance improvements can be reproduced under an independently implemented but methodologically faithful setup. To this end, we reconstructed the complete simulation environment and implemented all control strategies from scratch using the SUMO microscopic traffic simulation framework. Beyond a strict replication, this work also establishes a transparent and fully documented benchmarking environment, enabling systematic comparison with both classical and learning‐based controllers in future studies.
+
+
+            **Profile:** https://www.linkedin.com/in/rasim-ibadov-b4a3b4235/
+          '
+
+        - title: Qiyuan Zhang
+          company: Master, Electrical Engineering, ETH Zurich
+          company_logo: x_student_qiyuanz
+          location: Zurich, Switzerland
+          date_start: '2025-09-18'
+          date_end: '2026-01-05'
+          description: '
+            **Topic:** Reproduction Study Of RL Control for Intelligent Road Transportation Systems
+
+
+            **Abstract:** This semester project investigates the reproducibility of two reinforcement learning–based ramp metering approaches proposed by Fares et al. and Wang et al.
+          '
+
+        - title: Natcha Jengjirapas
+          company: Master, Computer Science, ETH Zurich
+          company_logo: x_student_natchaj
+          location: Zurich, Switzerland
+          date_start: '2025-10-01'
+          date_end: '2025-12-31'
+          description: '
+            **Topic:** Reproduction Study Of RL Control for Intelligent Road Transportation Systems
+
+
+            **Abstract:** This semester project investigates the reproducibility of two reinforcement learning–based ramp metering approaches proposed by Lu et al. The first uses tabular Q-learning for local ramp metering to minimize total time spent (TTS) under on-ramp queue constraints, while the second extends this framework to coordinated ramp metering by incorporating an equity objective based on the variance of total waiting time (TWT). Both methods are independently reimplemented from the published descriptions using a macroscopic traffic simulation based on the asymmetric cell transmission model, without access to original code or supplementary data. Reproduced results are compared with those reported in the original studies using the same performance metrics and reconstructed demand scenarios. The results show that the baseline Q-learning controller largely reproduces the reported efficiency and queue management behavior, while the equity-aware extension captures the intended efficiency–equity trade-off with some numerical discrepancies. These findings support the main conclusions of the original studies while highlighting reproducibility challenges arising from incomplete methodological specification.
+
+
+            **Profile:** https://www.linkedin.com/in/njengjir/
+          '
+
+        - title: Elyse Winstral
+          company: Master, Applied Mathematics, ETH Zurich
+          company_logo: x_student_ewinstral
+          location: Zurich, Switzerland
+          date_start: '2025-09-22'
+          date_end: '2026-03-13'
+          description: '
+            **Topic:** Individual, Urban Trip Reconstruction via BMS and Loop Detector Data
+
+
+            **Abstract:** Loop detectors and Bluetooth Media Access Control Scanners (BMS) have been used tomeasure various vehicle data in fixed locations and zones respectively. Recently, there has been interest in tracing individual vehicle trips with this data. While loop detectors are relatively common in European cities, BMS offers a more cost-effective way to gather additional information on traffic conditions. The aim of this thesis is to fuse BMS and loop detector data, and subsequently use the enriched data collection to reconstruct individual vehicle trips in a simulated, urban setting with a Markov Decision Process estimation method. Individual trip reconstruction may bolster traffic state analysis and prediction on meso- and macro-scopic levels.
+
+
+            **Profile:** https://www.linkedin.com/in/elyse-winstral/
+          '
+
         - title: Omar Alami Badissi
           company: Master, Mechanical Engineering, ETH Zurich
           company_logo: x_student_oalami
