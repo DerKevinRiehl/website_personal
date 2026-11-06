@@ -43,7 +43,7 @@ Relevant research questions in this context involve...
 
 
 # Publications
-* [ Kevin Riehl, Anastasios Kouvelas, Michail Makridis (2024). Towards fair roads--Why we should & how to improve the fairness in traffic engineering. *Preprint in arXiv*. ](/../publication/preprint4)
+* [ Kevin Riehl, Anastasios Kouvelas, Michail Makridis (2026). Towards Fair Roads–Manifesto for Fair Traffic Engineering. *Sustainability*. ](/../publication/journal24)
 * [ Kevin Riehl, Anastasios Kouvelas, Michail Makridis (2024). Fair Money--Public Good Value Pricing With Karma Economies. *Preprint in arXiv*. ](/../publication/preprint3)
 * [ Kevin Riehl, Anastasios Kouvelas, Michail Makridis (2024). Resource Allocation with Karma Mechanisms. *Preprint in arXiv*. ](/../publication/preprint2)
 * [ Kevin Riehl, Anastasios Kouvelas, Michail Makridis (2024). Priority pass: Signal control with focus on needs. *24th Swiss Transport Research Conference (STRC 2024)*, Ascona, Switzerland, May 15-17, 2024. ](/../publication/conference3)
