@@ -50,7 +50,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://www.tib-op.org/ojs/index.php/scp/article/view/3284'
-url_video: ''
+url_video: 'https://youtu.be/CMWLaSPljXY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,3 +66,5 @@ projects: []
 #slides: example
 
 ---
+
+{{< youtube CMWLaSPljXY >}}

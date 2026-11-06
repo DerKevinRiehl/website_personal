@@ -17,6 +17,7 @@ author_notes:
 date: '2026-06-02'
 doi: '10.52825/scp.v7i.3284'
 url_code: 'https://github.com/DerKevinRiehl/sumoITScontrol/'
+url_video: 'https://youtu.be/CMWLaSPljXY'
 #url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 
 # Schedule page publish date (NOT publication's date).
@@ -59,6 +60,8 @@ image:
 *SUMO User Conference 2026, Berlin, Germany, June 01-04, 2026.*
 
 Reliable benchmarking is essential for progress in intelligent traffic control research. While microscopic traffic simulators such as SUMO enable detailed modelling of individual vehicle interactions, many published control studies still rely on single-run evaluations and project-specific baseline implementations, limiting reproducibility and comparability. This paper presents sumoITScontrol, an open-source and extensible Python framework providing a curated collection of widely used traffic controllers implemented for SUMO via the TraCI interface. The framework includes established methods for both urban and freeway traffic management, such as Max Pressure signal control, SCOOT/SCATS-inspired adaptive strategies, and ramp metering algorithms including ALINEA, HERO-inspired, and METALINE. Beyond providing implementations, the paper emphasises methodological best-practices for controller evaluation in stochastic microscopic environments. Through systematic calibration and replicated simulation experiments, we demonstrate the substantial impact of stochastic variability on performance metrics and highlight the necessity of variance-aware reporting and statistical hypothesis testing. By combining standardised controller implementations with reproducibility-oriented evaluation guidelines, sumoITScontrol aims to improve methodological transparency, enable fair benchmarking of novel approaches, and strengthen experimental standards within the SUMO and intelligent transportation systems research communities. Source Code on project's GitHub: https://github.com/DerKevinRiehl/sumoITScontrol/.
+
+{{< youtube CMWLaSPljXY >}}
 
 <table>
   <tr>
