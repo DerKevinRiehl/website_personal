@@ -16,6 +16,7 @@ author_notes:
 
 date: '2026-06-02'
 doi: '10.52825/scp.v7i.3284'
+url_code: 'https://github.com/DerKevinRiehl/sumoITScontrol/'
 #url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 
 # Schedule page publish date (NOT publication's date).

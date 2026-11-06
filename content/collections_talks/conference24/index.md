@@ -15,7 +15,8 @@ author_notes:
   #- 'Equal contribution'
 
 date: '2025-12-11'
-#doi: '10.3929/ethz-b-000681446'
+doi: '10.1109/CDC57313.2025.11312349'
+url_code: 'https://github.com/DerKevinRiehl/green_pressure_control'
 #url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/681446'
 
 # Schedule page publish date (NOT publication's date).

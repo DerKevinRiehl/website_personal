@@ -9,6 +9,7 @@ authors:
   - Anastasios Kouvelas
 
 date: '2026-12-12'
+publishDate: '2026-11-05'
 url_code: 'https://github.com/DerKevinRiehl/neurips26_kan_training'
 
 publication_types: ['conference-journal']

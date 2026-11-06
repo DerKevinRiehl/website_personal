@@ -16,6 +16,7 @@ author_notes:
   #- 'Equal contribution'
 
 date: '2026-06-02'
+url_code: 'https://github.com/DerKevinRiehl/sumo3dviz/'
 #doi: '10.3929/ethz-b-000710841'
 #url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
 

@@ -9,6 +9,7 @@ authors:
   - Michail A. Makridis
 
 date: '2026-12-15'
+publishDate: '2026-11-05'
 url_code: 'https://github.com/shaimaa-elbaklish/kmd_prediction'
 
 publication_types: ['conference-journal']

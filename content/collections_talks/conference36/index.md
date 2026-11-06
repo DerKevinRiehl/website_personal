@@ -12,6 +12,7 @@ authors:
   - admin
 
 date: '2026-12-09'
+publishDate: '2026-11-05'
 url_source: 'https://neurips.cc/virtual/2026/poster/140039'
 url_code: 'https://github.com/ghollbeck/ClaudeCokeCameraReady'
 url_dataset: 'https://github.com/ghollbeck/ClaudeCokeCameraReady_Data'

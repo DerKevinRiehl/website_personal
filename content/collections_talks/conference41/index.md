@@ -12,6 +12,7 @@ authors:
   - Michail A. Makridis
 
 date: '2027-01-10'
+publishDate: '2026-11-05'
 url_source: 'https://www.nationalacademies.org/events/887'
 url_code: 'https://github.com/DerKevinRiehl/fair_perimeter_control'
 

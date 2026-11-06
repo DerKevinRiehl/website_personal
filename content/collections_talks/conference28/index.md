@@ -16,8 +16,9 @@ author_notes:
   #- 'Equal contribution'
 
 date: '2026-02-04'
-#doi: '10.3929/ethz-b-000710841'
+doi: '10.1109/FISTS67319.2026.11421721'
 #url_source: 'https://www.research-collection.ethz.ch/handle/20.500.11850/716127'
+url_code: 'https://github.com/DerKevinRiehl/fair_scosca'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2023-01-01T00:00:00Z'
