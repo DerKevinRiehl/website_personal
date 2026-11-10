@@ -106,7 +106,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Cedric Zeiter
-          company: Semester Project, D-MATH, ETH Zurich (11 CP)
+          company: Semester Project, D-MATH, ETH Zurich
           company_logo: x_student_czeiter
           location: Zurich, Switzerland
           date_start: '2026-02-16'
@@ -119,8 +119,9 @@ sections:
             **Profile:** https://www.linkedin.com/in/cedric-zeiter/
 
         - title: Patrick Michael Barry
-          company: Master, Paris
+          company: Master, Université Jean Monnet Saint-Etienne, Paris, France
           company_logo: x_student_pbarry
+          location: Zurich, Switzerland
           date_start: '2026-02-01'
           date_end: '2026-07-31'
           description: |2-
@@ -131,8 +132,9 @@ sections:
             **Profile:** https://www.linkedin.com/in/patrick-barry29/
 
         - title: Marco Prosperi
-          company: Master, Trento
+          company: Master, University of Trento, Trento, Italy
           company_logo: x_student_marcropros
+          location: Zurich, Switzerland
           date_start: '2026-02-01'
           date_end: '2026-07-31'
           description: |2-
@@ -143,7 +145,7 @@ sections:
             **Profile:** https://www.linkedin.com/in/marco-prosperi-05453515a/
 
         - title: Julian Isser
-          company: Bachelor, D-INFK, ETH Zurich (10 CP)
+          company: Bachelor, D-INFK, ETH Zurich
           company_logo: x_student_jisser
           location: Zurich, Switzerland
           date_start: '2026-02-01'
@@ -156,7 +158,7 @@ sections:
             **Profile:** https://www.linkedin.com/in/julian-isser/
 
         - title: Marc Gloor
-          company: Bachelor, D-BAUG, ETH Zurich (10 CP)
+          company: Bachelor, D-BAUG, ETH Zurich
           location: Zurich, Switzerland
           date_start: '2026-02-01'
           date_end: '2026-06-12'
@@ -168,7 +170,7 @@ sections:
             **Profile:** https://www.linkedin.com/in/marc-gloor-33809b216/
 
         - title: Raphael Benvenuti
-          company: Semester Project, D-BAUG, ETH Zurich (11 CP)
+          company: Semester Project, D-BAUG, ETH Zurich
           location: Zurich, Switzerland
           date_start: '2026-02-01'
           date_end: '2026-06-01'
